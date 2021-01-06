@@ -1,0 +1,14 @@
+{
+  "name": "phg_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "a": "node Bot.js"
+  }
+}
