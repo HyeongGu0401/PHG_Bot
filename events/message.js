@@ -1,1 +1,1 @@
-const
+const Discord = require("discord.js")
