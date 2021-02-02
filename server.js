@@ -10,7 +10,7 @@ client.on('ready', () => {
         activity: {
             name: '테스트'
         },
-        status: 'dnd'
+        status: 'online'
     })
 });
 
